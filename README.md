@@ -1,10 +1,3 @@
-## Hi there 👋
-
-![Kariamos GitHub stats](https://github-readme-stats.vercel.app/api?username=Kariamos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kariamos)](https://git.io/streak-stats)
-
-
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A developer from Italy</h3>
 
@@ -14,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/marco-minucci-499a32103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-minucci-499a32103" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/minucci9292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minucci9292" height="30" width="40" /></a>
 </p>
 
