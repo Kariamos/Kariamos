@@ -18,4 +18,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kariamos&show_icons=true&locale=en" alt="kariamos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kariamos&" alt="kariamos" /></p>
+<!-- Markdown -->
+
+<!-- HTML -->
+<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
